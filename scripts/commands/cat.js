@@ -80,10 +80,6 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("ওয়ালাইকুম সালাম ❤️", threadID);
    };
    
-   if ((event.body.toLowerCase() == "tur mare xudi") || (event.body.toLowerCase() == "")) {
-     return api.sendMessage("tumer mare ASIF XUDE tnx❤️", threadID);
-   };
-   
    if ((event.body.toLowerCase() == "oii apu") || (event.body.toLowerCase() == "btvv nha mn")) {
      return api.sendMessage("apu na to xans ❤️", threadID);
    };
