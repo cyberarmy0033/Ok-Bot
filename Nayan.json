@@ -6,16 +6,16 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "CYBER-BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100000810273670",
     "61553854347700",
-    "61556636480808",
-    ""
+    "",
+    "61556636480808"
   ],
   "ADMINBOT": [
-    "10",
+    "61556636480808",
     "1",
     "",
     "10"
